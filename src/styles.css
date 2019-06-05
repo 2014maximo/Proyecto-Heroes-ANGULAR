@@ -5,7 +5,9 @@
 body{
   padding-bottom: 50px;
 }
-
+.img-logo{
+  width: 120px;
+}
 /* ANIMACIONES */
 .animated {
   -webkit-animation-duration: 1s;

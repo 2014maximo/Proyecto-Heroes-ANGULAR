@@ -1,0 +1,23 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "nombre": "Alex Muñoz",
+      "documento": "34567",
+      "telefono": "4565687"
+    },
+    {
+      "id": 2,
+      "nombre": "Cristian",
+      "documento": "341234",
+      "telefono": "34523452"
+    }
+  ],
+  "producto": [
+    {
+      "id": 3,
+      "descripcion": "Cuadernos",
+      "categoria": "papeleria"
+    }
+  ]
+}
